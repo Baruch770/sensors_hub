@@ -1,3 +1,3 @@
-module github.com/Baruch770/https://github.com/Baruch770
+module github.com/Baruch770/https
 
 go 1.17
